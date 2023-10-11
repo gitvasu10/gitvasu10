@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitvasu10
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in learning about various technologies 
+- 🌱 I’m currently pursuing PG-DAC from CDAC Pune
 
 <!---
 gitvasu10/gitvasu10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,7 +9,7 @@
   <!--
   %20 - To add space in between the icon in the links
   -->
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitvasu10&theme=default&show_icons=true&hide_border=true&count_private=true)
 
   
 

@@ -5,7 +5,7 @@
 - 🌱 I’m currently pursuing PG-DAC from CDAC ACTS Pune.
 
 **MY SKILLSET:**  
-  [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,py,anaconda,spring,selenium,dotnet,eclipse,idea,pycharm,html,mysql,mongodb,ubuntu,linux,bash,git,github,docker,vim&theme=light&perline=11)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,py,anaconda,spring,selenium,dotnet,eclipse,idea,pycharm,html,mysql,mongodb,redis,ubuntu,linux,bash,git,github,docker,vim&theme=light&perline=11)](https://skillicons.dev)
   <!--
   %20 - To add space in between the icon in the links
   -->

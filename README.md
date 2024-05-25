@@ -10,6 +10,7 @@
   %20 - To add space in between the icon in the links
   -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitvasu10&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gitvasu10&theme=default&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gitvasu10&theme=default&show_icons=true&hide_border=true&layout=compact)
 
   

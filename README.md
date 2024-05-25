@@ -1,6 +1,6 @@
 :rocket: **This is all about my technical aspect!**
 
-- 👋 Hi, I’m  👨‍💻**@gitvasu10**
+- 👋 Hi, I’m  👨‍💻@gitvasu10
 - 👀 I’m interested in learning about various technologies and about what's under the hood. A pinch of epistemophilia!
 - 🌱 I’m currently pursuing PG-DAC from CDAC ACTS Pune.
 

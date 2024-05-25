@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @gitvasu10
+:rocket: **Quick Start**: Get up and running in no time!
+
+- 👋 Hi, I’m  👨‍💻**@gitvasu10**
 - 👀 I’m interested in learning about various technologies and about what's under the hood. A pinch of epistemophilia!
 - 🌱 I’m currently pursuing PG-DAC from CDAC ACTS Pune.
+
+**MY SKILLSET:**  
+  [![My Skills](https://skillicons.dev/icons?i=java,html,c,cpp,autoit)](https://skillicons.dev)
+  
+
+
+  
+
 
 
 <!---

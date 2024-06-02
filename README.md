@@ -1,8 +1,8 @@
-:rocket: **This is all about my technical aspect!**
+:rocket: **This is about me in a nutshell**
 
 - 👋 Hi, I’m  👨‍💻@gitvasu10
-- 👀 I’m interested in learning about various technologies and about what's under the hood.
-- 🌱 I’m currently pursuing PG-DAC from CDAC ACTS Pune.
+- 👀 Interested in learning about various technologies and about what's under the hood.
+- 🌱 Currently pursuing PG-DAC from CDAC ACTS Pune.
 - 📚 A pinch of epistemophilia!
 
 **MY SKILLSET:**  

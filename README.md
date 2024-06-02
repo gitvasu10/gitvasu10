@@ -1,8 +1,9 @@
 :rocket: **This is all about my technical aspect!**
 
 - 👋 Hi, I’m  👨‍💻@gitvasu10
-- 👀 I’m interested in learning about various technologies and about what's under the hood. A pinch of epistemophilia!
+- 👀 I’m interested in learning about various technologies and about what's under the hood.
 - 🌱 I’m currently pursuing PG-DAC from CDAC ACTS Pune.
+- 📚 A pinch of epistemophilia!
 
 **MY SKILLSET:**  
   [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,py,anaconda,spring,selenium,dotnet,eclipse,vscode,idea,pycharm,html,mysql,mongodb,redis,ubuntu,linux,bash,git,github,docker,vim&theme=light&perline=11)](https://skillicons.dev)

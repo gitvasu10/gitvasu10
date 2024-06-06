@@ -1,9 +1,9 @@
 :rocket: **This is about me in a nutshell**
 
-- 👋 Hi, I’m  👨‍💻@gitvasu10
-- 👀 Interested in learning about various technologies and about what's under the hood.
-- 🌱 Currently pursuing PG-DAC from CDAC ACTS Pune.
+-🇮🇳 🕉️ Hi, I’m  👨‍💻@gitvasu10
+- 👀 Interested in learning about various technologies and about what's under the hood
 - 📚 A pinch of epistemophilia!
+- 📖 Currently enveloped in "The Daily Stoic" 
 
 **MY SKILLSET:**  
   [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,py,anaconda,spring,selenium,dotnet,eclipse,vscode,idea,pycharm,html,mysql,mongodb,redis,ubuntu,linux,bash,git,github,docker,vim&theme=light&perline=11)](https://skillicons.dev)

@@ -1,6 +1,6 @@
 :rocket: **This is about me in a nutshell**
 
--🇮🇳 🕉️ Hi, I’m  👨‍💻@gitvasu10
+- 🕉️ Hi, I’m  👨‍💻@gitvasu10
 - 👀 Interested in learning about various technologies and about what's under the hood
 - 📚 A pinch of epistemophilia!
 - 📖 Currently enveloped in "The Daily Stoic" 
